@@ -57,11 +57,10 @@ const messages = [
     "Nanu Are you sure?",
     "Really sure Nanu??",
     "Nanu please...",
-    "Just think about it Kajju!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
+      "Nope 😏",
+  "Try again 😄",
+  "Come on Kutti 🥺",
+  "You know the answer ❤️",
     "Just kidding, say yes please! ❤️"
 ];
 
